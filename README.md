@@ -8,3 +8,5 @@ Saludos al grupo 2021UAM-G1
 Esta linea corresponde a una modificacion hecha en la version web de github. Se realizara un Pull para obtener los cambios de manera local.
 
 Esta linea es para hacer la demostracion de GitHub Desktop
+
+Esta linea corresponde a demostrar el uso de git pull en GitHub Desktop
