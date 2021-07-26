@@ -16,3 +16,7 @@ Esta linea es para hacer un push con VisualStudio Code - Cambio 2 - Cambio 3
 Esta linea es para ejemplificar git status en el grupo 3
 
 Esta linea es para ejemplifcar un push con Visual Studio Code al grupo 3
+
+Lista de alumnos grupo 3
+
+Hugo Vargas: https://github.com/hugoescalpelo/
