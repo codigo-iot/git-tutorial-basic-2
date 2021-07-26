@@ -20,3 +20,4 @@ Esta linea es para ejemplifcar un push con Visual Studio Code al grupo 3
 Lista de alumnos grupo 3
 
 Hugo Vargas: https://github.com/hugoescalpelo/
+Eduardo Rodríguez Martínez: https://github.com/Eduardo-Rodriguez-Martinez
