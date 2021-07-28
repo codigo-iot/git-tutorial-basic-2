@@ -25,3 +25,4 @@ Rodrigo Antonio Arciniega Mendoza: https://github.com/rockdrigoo
 
 Carlos Alberto Carranco González: https://github.com/Albcar56
 
+Ayala De La Rosa José Daniel: https://github.com/mrquadbit
