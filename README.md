@@ -25,3 +25,4 @@ Rodrigo Antonio Arciniega Mendoza: https://github.com/rockdrigoo
 
 Carlos Alberto Carranco González: https://github.com/Albcar56
 
+Ricardo Cesar Torres Valle https://github.com/Ricardo-Torres-Valle
